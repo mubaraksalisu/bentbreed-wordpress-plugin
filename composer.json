@@ -1,0 +1,17 @@
+{
+    "name": "mubarak/bentbreed-plugin",
+    "description": "Starter plugin project",
+    "type": "project",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Bentbreed co.",
+            "email": "marksmanl619@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload":{
+      "psr-4":{"inc\\": "./inc"}
+    }
+}
